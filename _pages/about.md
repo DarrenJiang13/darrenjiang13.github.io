@@ -12,7 +12,6 @@ This is Yujie Jiang's personal website
 
 Updates
 ------
-#### Graduate
 - **Jun.2020-Mar.2021** Study in Shanghai Jiao Tong University (Shanghai,China)
 
 Education
