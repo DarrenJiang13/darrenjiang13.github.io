@@ -12,11 +12,11 @@ This is Yujie Jiang's personal website
 
 Updates
 ------
-- **Jun.2020-Mar.2021** Study in Shanghai Jiao Tong University (Shanghai,China)
+- **Jul.2020-Mar.2021** Study in Shanghai Jiao Tong University (Shanghai,China)
 
 Education
 ------
-- **M.S. Mechanical Engineering,Shanghai Jiao Tong University/Northwestern University, 2018-2021**  
+- **M.S. Mechanical Engineering,Shanghai Jiao Tong University(Shanghai, China), 2018-2021**  
   - **Thesis**: 
   - **Advisor**: Prof. Qixin Cao
 - **M.S. Mechanical Engineering,Northwestern University(Evanston,USA), 2019-2020**  
