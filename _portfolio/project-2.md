@@ -1,6 +1,6 @@
 ---
-title: "A Wearable System for Lower-limb Motion Monitoring"
-excerpt: "<br/><img src='/images/project/project1.jpg'>"
+title: " RGBD-Based Real-Time 3D Human Pose Estimation for Fitness Assessment"
+excerpt: "<br/><img src='/images/project/project2.jpg'>"
 collection: portfolio
 ---
 
