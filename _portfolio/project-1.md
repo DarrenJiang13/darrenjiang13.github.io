@@ -1,6 +1,7 @@
 ---
 title: "A Wearable System for Lower-limb Motion Monitoring"
 excerpt: "<br/><img src='/images/project/project1.jpg'>"
+permalink: /project/project1
 collection: project
 ---
 
