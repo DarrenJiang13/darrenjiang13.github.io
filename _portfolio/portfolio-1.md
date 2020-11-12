@@ -1,6 +1,6 @@
 ---
 title: "A Wearable System for Lower-limb Motion Monitoring"
-excerpt: "<div align=left><img src='/images/project/project1.jpg' height="410" width="738"/></div>"
+excerpt: "<br/><img src='/images/project/project1.jpg' height="410" width="738"/>"
 collection: portfolio
 ---
 
