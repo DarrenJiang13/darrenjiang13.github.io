@@ -1,6 +1,6 @@
 ---
 title: " RGBD-Based Real-Time 3D Human Pose Estimation for Fitness Assessment"
-excerpt: "<br/><img src='/images/project/project2.jpg'>"
+excerpt: "<br/><img src='/images/project/project2.png'>"
 collection: portfolio
 ---
 
